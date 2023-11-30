@@ -1,9 +1,9 @@
 const makeChange = (c) => {
     let obj = {
-		q : 0;
-	n:0;
-	d:0;
-	p:0;
+		q : 0,
+	n:0,
+	d:0,
+	p:0,
 	};
   while(c > 25){
 	  c-=25;
